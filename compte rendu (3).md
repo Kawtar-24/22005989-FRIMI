@@ -1,3 +1,7 @@
+Nom & Prénom : FRIMI Kawtar
+![WhatsApp Image 2025-12-11 à 11 35 50_43b476ee](https://github.com/user-attachments/assets/a7e5368d-6e3b-437a-b9c0-b57183f89f1b)
+
+
 # Rapport Académique : Détection de Fraude sur Cartes Bancaires avec Datasets Déséquilibrés
 
 ---
