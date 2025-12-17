@@ -218,7 +218,6 @@ Cette approche s'inscrit dans l'état de l'art : des études récentes (2023-202
 <img width="575" height="320" alt="1" src="https://github.com/user-attachments/assets/b36cc101-a423-424f-a965-24dd92d10788" />
 <img width="1145" height="282" alt="2" src="https://github.com/user-attachments/assets/119d5d22-7f7a-4a4c-a841-f3eba296a6fd" />
 <img width="468" height="280" alt="3" src="https://github.com/user-attachments/assets/a5758634-7b39-4944-8376-7eaec5d4cd94" />
-<img width="1291" height="1217" alt="4" src="https://github.com/user-attachments/assets/eba11187-6cda-422a-9122-951d7b704f64" />
 <img width="1291" height="1217" alt="5" src="https://github.com/user-attachments/assets/c4b30339-8f3e-45e6-bf79-c5e48b8c5a09" />
 <img width="1223" height="294" alt="6" src="https://github.com/user-attachments/assets/de569451-c352-40a0-a2fc-6c02ded72886" />
 
